@@ -1,0 +1,4 @@
+.PYCACHE
+*PYC
+.DSSTORE
+.DS_Store
